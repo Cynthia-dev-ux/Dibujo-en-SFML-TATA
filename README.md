@@ -3,6 +3,7 @@ Me basé en la imagen que se puede ver aquí, primero metí mis puntos a Desmos 
 
 Para compilar se debe poner:
 cmake -B build
+
 cmake --build build 
 
 
