@@ -1,3 +1,0 @@
-/home/cynthiauribemartinez/Graficacion/TATA/build/CMakeFiles/tata.dir
-/home/cynthiauribemartinez/Graficacion/TATA/build/CMakeFiles/edit_cache.dir
-/home/cynthiauribemartinez/Graficacion/TATA/build/CMakeFiles/rebuild_cache.dir
