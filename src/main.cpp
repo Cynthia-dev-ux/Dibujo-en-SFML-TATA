@@ -25,13 +25,12 @@ void animacion(
         float t = (float)i / (float)pasos;
         vector2d punto =calcularbezier(p0, p1, p2, t);
 
-         for (int dx = -2; dx <= 2; dx++) {
-        for (int dy = -2; dy <= 2; dy++) {
+       {
         sf::Vertex vertice{sf::Vector2f(punto.getX(), punto.getY())};
         vertice.color = color;
         curva.push_back(vertice);
         }
-         }
+         
 
         window.clear(sf::Color::Black);
         window.draw(curva.data(), curva.size(), sf::Points);
