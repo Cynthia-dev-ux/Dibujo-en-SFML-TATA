@@ -1,5 +1,5 @@
 # Dibujo-en-SFML-TATA
-Me basé en la imagen que se puede ver aquí, primero metí mis puntos a Desmos y los pasé. En el archivo Vector2d.h tengo mi clase de vectores con sus respectivas operaciones y en mi archivo main.cpp tengo todas las funciones para crear la imagen en base a curvas de Bezier y para animar mi imagen, tambien tengo los puntos que pasé de Desmos.
+Para hacer mi dibujo me basé en la imagen que se puede ver aquí, primero metí mis puntos a Desmos y los pasé. En el archivo Vector2d.h tengo mi clase de vectores con sus respectivas operaciones y en mi archivo main.cpp tengo todas las funciones para crear la imagen en base a curvas de Bezier y para animar mi imagen, tambien tengo los puntos que pasé de Desmos.
 
 Para compilar se debe poner:
 cmake -B build
